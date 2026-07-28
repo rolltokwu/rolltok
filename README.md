@@ -1,4 +1,4 @@
-# Wu Di / RollTok
+# Dean Wu / RollTok
 
 > **Building practical infrastructure for authentic Chinese AI models.**
 
