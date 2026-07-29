@@ -37,8 +37,7 @@ We follow a simple rule:
 
 I am especially interested in developer tools, AI agents, knowledge bases, workflow automation, model routing, and low-code integrations.
 
-<details>
-<summary>中文说明 / Chinese</summary>
+---
 
 ## 中文
 
@@ -56,8 +55,6 @@ RollTok坚持：标注是什么模型，实际调用就应当是什么模型；�
 
 - 官网：[https://www.rolltok.com](https://www.rolltok.com)
 - 客服：[support@rolltok.com](mailto:support@rolltok.com)
-
-</details>
 
 ---
 
